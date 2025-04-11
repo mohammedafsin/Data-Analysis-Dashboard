@@ -21,13 +21,13 @@ Helps identify revenue trends, top-performing items, and customer behavior for d
  specific occasions
 
 ## Dashboard 
-![Screenshot 2025-04-11 065034](https://github.com/user-attachments/assets/9c049ad6-b224-4925-a675-0e2abc901fc3)
+![Screenshot 2025-04-11 065034](https://github.com/user-attachments/assets/9c049ad6-b224-4925-a675-0e2abc901fc3
 
 
 ## Project Insights
-1.Peak sales during Holi, Diwali, and Raksha Bandhan.
-2.Cakes and Gifts are the highest revenue-generating categories.
-3.Orders are mostly placed between 10 AM and 8 PM.
-4.Average delivery time is around 5.5 days.
-5.Delhi, Mumbai, and Bangalore lead in order volume.
+1. Occasions: Highest revenue from Anniversary and Raksha Bandhan; Valentine’s Day and Diwali also key contributors.
+2. Categories: Colors leads in revenue, followed by Cake, Soft Toys, and Sweets; Mugs and Plants show lower sales.
+3. Monthly Trends: Peak sales in March and October; low in May, July, and August due to seasonality.
+4. Order Time: Most orders placed between 10 AM and 8 PM, with spikes at 1 PM and 6 PM — ideal for ad targeting.
+5. Top Performers: Magnam Set and Quia Gift are top products; Delhi, Mumbai, and Bangalore lead in order volume.
 
