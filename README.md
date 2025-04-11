@@ -22,3 +22,11 @@ Helps identify revenue trends, top-performing items, and customer behavior for d
 
 ## Dashboard 
 ![Screenshot 2025-04-11 065034](https://github.com/user-attachments/assets/9c049ad6-b224-4925-a675-0e2abc901fc3)
+
+##Project Insights
+-Peak sales during Holi, Diwali, and Raksha Bandhan.
+-Cakes and Gifts are the highest revenue-generating categories.
+-Orders are mostly placed between 10 AM and 8 PM.
+-Average delivery time is around 5.5 days.
+-Delhi, Mumbai, and Bangalore lead in order volume.
+
