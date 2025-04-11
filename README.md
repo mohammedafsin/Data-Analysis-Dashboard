@@ -31,10 +31,7 @@ This project showcases a data-driven dashboard created to analyze and optimize t
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard-overview.png)  
-*Overall sales performance, trends, and top KPIs*
-
----
+![Screenshot 2025-04-11 065034](https://github.com/user-attachments/assets/74001c3f-a0bd-47d4-8e96-480abf69d966)
 
 ## Project Insights
 
