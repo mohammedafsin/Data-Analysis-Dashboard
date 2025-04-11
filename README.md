@@ -1,2 +1,8 @@
-# Data-Analysis-Dashboard
-An interactive Excel dashboard analyzing sales data for Ferns and Petals. It provides insights on total revenue, customer spending, top products, sales by occasion, time trends, and city-wise performance. Features dynamic charts and slicers for easy data exploration.
+# Ferns and Petals-Data-Analysis (Dashboard using MS Excel)
+## Project Objective
+- **Analyze Sales Performance:** Track total orders, revenue, and average customer spending.
+- **Understand Seasonal Trends:** Identify peak sales months and occasion-based demand.
+- **Evaluate Product Performance:** Highlight top products and categories by revenue.
+- **Track Customer Behavior:** Analyze order time and delivery gap to improve logistics.
+- **Geographical Insights:** Visualize top-performing cities by order volume.
+- **Enable Data-Driven Decisions:** Use visuals and slicers to support strategic planning.
