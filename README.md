@@ -35,11 +35,11 @@ This project showcases a data-driven dashboard created to analyze and optimize t
 
 ## Project Insights
 
-# Occasions
+### Occasions
 - Anniversary and Raksha Bandhan contribute the highest revenue.
 - Valentine’s Day and Diwali are strong seasonal performers.
 
-# Product Categories
+### Product Categories
 - Top Revenue Categories:
   - Colors
   - Cakes
@@ -47,15 +47,15 @@ This project showcases a data-driven dashboard created to analyze and optimize t
   - Sweets
 - Low-performing: Mugs and Plants — potential for repositioning.
 
-# Monthly Trends
+### Monthly Trends
 - Sales Peaks in March and October.
 - Lows in May, July, and August due to seasonal effects.
 
-# Order Time Patterns
+### Order Time Patterns
 - Most orders occur between 10 AM and 8 PM.
 - Spikes at 1 PM and 6 PM — ideal for ad targeting.
 
-# Top Performers
+### Top Performers
 - Top Products: Magnam Set and Quia Gift.
 - Top Cities: Delhi, Mumbai, Bangalore.
 
